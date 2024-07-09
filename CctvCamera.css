@@ -1,0 +1,473 @@
+.cctv-camera {
+  border-radius: 16px;
+  background: var(--primary-1, #F7F7FD);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.cctv-camera .frame-36490 {
+  box-shadow: var(--itune, 3px 3px 4px 0px rgba(0, 0, 0, 0.15));
+  background: #FFFFFF;
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 33px 16px 41px;
+  width: 463px;
+  box-sizing: border-box;
+}
+.cctv-camera .frame-36476 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 374px;
+  box-sizing: border-box;
+}
+.cctv-camera .group-84 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.cctv-camera .container {
+  margin-right: 11.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: var(--black, #121212);
+}
+.cctv-camera .vector {
+  margin: 3px 0 4px 0;
+  width: 15px;
+  height: 15px;
+}
+.cctv-camera .group-85 {
+  margin: 4px 0;
+  display: flex;
+  flex-direction: row;
+  width: 78px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.cctv-camera .elsignal {
+  background: var(--white, #F8F7F7);
+  margin-right: 7px;
+  display: flex;
+  width: 18px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.cctv-camera .fontistowifi {
+  background: var(--white, #F8F7F7);
+  margin-right: 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0.3px 0px 0;
+  width: 21px;
+  box-sizing: border-box;
+}
+.cctv-camera .fabattery {
+  background: var(--white, #F8F7F7);
+  display: flex;
+  width: 25px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.cctv-camera .input-field {
+  box-shadow: var(--hotgist, 0px 2px 4px 0px rgba(0, 0, 0, 0.15));
+  border-radius: 8px;
+  background: #EEEEEE;
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 13.5px 0 13.5px 10px;
+  width: 374px;
+  box-sizing: border-box;
+}
+.cctv-camera .frame-36494 {
+  border-radius: 16px;
+  background: #FFFFFF;
+  margin: 0 23.1px 459.8px 23.1px;
+  display: flex;
+  padding: 4px 8px;
+  width: calc(100% - 46.3px);
+  box-sizing: border-box;
+}
+.cctv-camera .frame-36489 {
+  box-shadow: var(--itune, 3px 3px 4px 0px rgba(0, 0, 0, 0.15));
+  border-radius: 20px;
+  background: #EEEEEE;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px 19.8px 12px 12px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.cctv-camera .frame-36485 {
+  background: url('assets/images/Frame364857.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  display: flex;
+  padding: 10px 9px 0 9px;
+  height: 139.2px;
+  flex-grow: 1;
+  flex-basis: 160.9px;
+  box-sizing: border-box;
+}
+.cctv-camera .frame-36488 {
+  margin: 7.7px 0;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-basis: 155.1px;
+  box-sizing: border-box;
+}
+.cctv-camera .frame-36487 {
+  margin-bottom: 27px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.cctv-camera .cctv-camera-1 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1.387;
+  text-transform: capitalize;
+  color: #000000;
+}
+.cctv-camera .latest-wired-outdoor-security-camera-2-mp-advanced-with-dvr {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.387;
+  text-transform: capitalize;
+  color: #000000;
+}
+.cctv-camera .frame-36486 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cctv-camera .ngn-16000000 {
+  margin: 5.9px 27px 5.9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1.387;
+  text-transform: capitalize;
+  color: #000000;
+}
+.cctv-camera .frame-36479 {
+  box-shadow: 0px 1.2px 2.4px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 5.3px;
+  border: 1px solid var(--white, #F8F7F7);
+  background: var(--primary, #2E3192);
+  display: flex;
+  padding: 4.9px 4.2px;
+  flex-grow: 1;
+  flex-basis: 35.1px;
+  box-sizing: border-box;
+}
+.cctv-camera .buy {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1.387;
+  color: var(--white, #F8F7F7);
+}
+.cctv-camera .frame-36614 {
+  box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  border-top: 1px solid var(--grey-100, #F2F2F2);
+  background: var(--primary, #2E3192);
+  display: flex;
+  flex-direction: row;
+  padding: 7.8px 31.6px 8.8px 32.5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cctv-camera .frame-36635 {
+  border-radius: 30.5px;
+  background: var(--white, #F8F7F7);
+  margin-right: 58.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5.1px 14.4px 5px 15.4px;
+  flex-grow: 1;
+  flex-basis: 62.4px;
+  box-sizing: border-box;
+}
+.cctv-camera .home {
+  margin-right: 0.3px;
+  width: 32.3px;
+  height: 32.3px;
+}
+.cctv-camera .home-1 {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 11.5px;
+  line-height: 1.75;
+  text-transform: uppercase;
+  color: var(--primary, #2E3192);
+}
+.home-1 {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 11.5px;
+  line-height: 1.333;
+  text-transform: lowercase;
+  color: var(--primary, #2E3192);
+}
+.cctv-camera .frame-36636 {
+  margin: 5.7px 57.8px 1.7px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 32.5px;
+  box-sizing: border-box;
+}
+.cctv-camera .raphaelcart {
+  margin-bottom: 1.1px;
+  display: flex;
+  width: 32.5px;
+  height: 29.9px;
+  box-sizing: border-box;
+}
+.cctv-camera .cart {
+  margin: 0 2.9px 0 3px;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 13.4px;
+  line-height: 1.75;
+  text-transform: capitalize;
+  color: var(--secondary-100, #FAF9FB);
+}
+.cctv-camera .frame-36610 {
+  margin: 3.5px 0 0.3px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 40.5px;
+  box-sizing: border-box;
+}
+.cctv-camera .account-circle {
+  margin: 0 5px 3.1px 4px;
+  display: flex;
+  width: 31.5px;
+  height: 31.5px;
+  box-sizing: border-box;
+}
+.cctv-camera .profile {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 13.4px;
+  line-height: 1.75;
+  text-transform: capitalize;
+  color: var(--secondary-100, #FAF9FB);
+}
+.cctv-camera .products {
+  position: relative;
+  display: flex;
+  align-self: flex-end;
+  box-sizing: border-box;
+}
+.cctv-camera .frame-36478 {
+  border-radius: 9px;
+  margin: 10px 28.1px 10px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.cctv-camera .all {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: var(--black, #121212);
+}
+.cctv-camera .frame-364791 {
+  border-radius: 9px;
+  margin: 10px 22.3px 10px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.cctv-camera .laptops {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: var(--black, #121212);
+}
+.cctv-camera .frame-36480 {
+  border-radius: 9px;
+  margin: 10px 10.1px 10px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.cctv-camera .desktop {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: var(--black, #121212);
+}
+.cctv-camera .frame-36482 {
+  border-radius: 9px;
+  position: absolute;
+  right: -83px;
+  bottom: 10px;
+  display: flex;
+  height: 28px;
+  box-sizing: border-box;
+}
+.cctv-camera .phones {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: var(--black, #121212);
+}
+.cctv-camera .frame-36481 {
+  border-radius: 9px;
+  background: var(--primary, #2E3192);
+  display: flex;
+  padding: 10px 12.4px;
+  box-sizing: border-box;
+}
+.cctv-camera .cctv-camera-2 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: var(--white, #F8F7F7);
+}
+.cctv-camera .frame-36483 {
+  border-radius: 9px;
+  position: absolute;
+  right: -201.9px;
+  bottom: 10px;
+  display: flex;
+  height: 28px;
+  box-sizing: border-box;
+}
+.cctv-camera .projectors {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: var(--black, #121212);
+}
+.cctv-camera .frame-36638 {
+  margin: 3.2px 56.5px 1.7px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 57.9px;
+  box-sizing: border-box;
+}
+.cctv-camera .favorite {
+  margin: 0 12.9px 4.4px 12.9px;
+  display: flex;
+  width: 32.1px;
+  height: 29.2px;
+  box-sizing: border-box;
+}
+.cctv-camera .favourite {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 13.4px;
+  line-height: 1.75;
+  text-transform: capitalize;
+  color: var(--secondary-100, #FAF9FB);
+}
+.cctv-camera .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.cctv-camera .container-1 {
+  margin-bottom: 3.2px;
+  width: 20.7px;
+  height: 6.3px;
+}
+.cctv-camera .vector-1 {
+  width: 18px;
+  height: 14px;
+}
+.cctv-camera .vector-4 {
+  margin: 0 7px;
+  width: 6.8px;
+  height: 4.5px;
+}
+.cctv-camera .vector-5 {
+  width: 25px;
+  height: 14px;
+}
+.cctv-camera .search {
+  margin: 2px 8.3px 2px 0;
+  width: 24px;
+  height: 24px;
+}
+.cctv-camera .type-amessage {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.556;
+  color: var(--mid-grey, #313131);
+}
+.cctv-camera .favorite-light {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1px 1px 3px 1px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.cctv-camera .vector-15 {
+  width: 22px;
+  height: 20px;
+}
+.cctv-camera .vector-6 {
+  width: 32.5px;
+  height: 29.9px;
+}
+.cctv-camera .icon {
+  width: 31.5px;
+  height: 31.5px;
+}
+.cctv-camera .vector-151 {
+  width: 32.1px;
+  height: 29.2px;
+}
