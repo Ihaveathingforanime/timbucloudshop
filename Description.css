@@ -1,0 +1,491 @@
+.description {
+  border-radius: 16px;
+  background: var(--primary-1, #F7F7FD);
+  display: flex;
+  padding-top: 20px;
+  box-sizing: border-box;
+}
+.description .frame-36476 {
+  margin: 0 28px 25px 28px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 56px);
+  box-sizing: border-box;
+}
+.description .group-84 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.description .container {
+  margin-right: 11.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: var(--black, #121212);
+}
+.description .vector {
+  margin: 3px 0 4px 0;
+  width: 15px;
+  height: 15px;
+}
+.description .group-85 {
+  margin: 4px 0;
+  display: flex;
+  flex-direction: row;
+  width: 78px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.description .elsignal {
+  background: var(--white, #F8F7F7);
+  margin-right: 7px;
+  display: flex;
+  width: 18px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.description .fontistowifi {
+  background: var(--white, #F8F7F7);
+  margin-right: 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0.3px 0px 0;
+  width: 21px;
+  box-sizing: border-box;
+}
+.description .fabattery {
+  background: var(--white, #F8F7F7);
+  display: flex;
+  width: 25px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.description .frame-36614 {
+  box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  border-top: 1px solid var(--grey-100, #F2F2F2);
+  background: var(--primary, #2E3192);
+  display: flex;
+  flex-direction: row;
+  padding: 7.8px 31.6px 8.8px 32.5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.description .frame-36635 {
+  border-radius: 30.5px;
+  background: var(--white, #F8F7F7);
+  margin-right: 58.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5.1px 14.4px 5px 15.4px;
+  flex-grow: 1;
+  flex-basis: 62.4px;
+  box-sizing: border-box;
+}
+.description .home {
+  margin-right: 0.3px;
+  width: 32.3px;
+  height: 32.3px;
+}
+.description .home-1 {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 11.5px;
+  line-height: 1.75;
+  text-transform: uppercase;
+  color: var(--primary, #2E3192);
+}
+.home-1 {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 11.5px;
+  line-height: 1.333;
+  text-transform: lowercase;
+  color: var(--primary, #2E3192);
+}
+.description .frame-36636 {
+  margin: 5.7px 57.8px 1.7px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 32.5px;
+  box-sizing: border-box;
+}
+.description .raphaelcart {
+  margin-bottom: 1.1px;
+  display: flex;
+  width: 32.5px;
+  height: 29.9px;
+  box-sizing: border-box;
+}
+.description .cart {
+  margin: 0 2.9px 0 3px;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 13.4px;
+  line-height: 1.75;
+  text-transform: capitalize;
+  color: var(--secondary-100, #FAF9FB);
+}
+.description .frame-36610 {
+  margin: 3.5px 0 0.3px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 40.5px;
+  box-sizing: border-box;
+}
+.description .account-circle {
+  margin: 0 5px 3.1px 4px;
+  display: flex;
+  width: 31.5px;
+  height: 31.5px;
+  box-sizing: border-box;
+}
+.description .profile {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 13.4px;
+  line-height: 1.75;
+  text-transform: capitalize;
+  color: var(--secondary-100, #FAF9FB);
+}
+.description .frame-36485 {
+  background: url('assets/images/Frame3648512.png') 50% / contain no-repeat;
+  position: absolute;
+  left: 42.8px;
+  top: 123px;
+  right: 42.8px;
+  height: 298px;
+}
+.description .favourite {
+  margin: 4.3px 0;
+  display: flex;
+  width: 51.4px;
+  height: 51.4px;
+  box-sizing: border-box;
+}
+.description .frame-36480 {
+  border-radius: 9px;
+  background: var(--primary, #2E3192);
+  padding: 20px 18.7px;
+  width: 64px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.description .frame-36642 {
+  margin: 0 36.6px 294px 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 60.6px);
+  box-sizing: border-box;
+}
+.description .frame-36646 {
+  border-radius: 10.4px;
+  background: url('assets/images/Frame36646.png') 50% / cover no-repeat;
+  margin-right: 33px;
+  display: flex;
+  padding: 6.5px 5.9px 0 5.9px;
+  height: 90.8px;
+  flex-grow: 1;
+  flex-basis: 104.9px;
+  box-sizing: border-box;
+}
+.description .frame-36647 {
+  border-radius: 10.4px;
+  background: url('assets/images/Frame36647.png') 50% / cover no-repeat;
+  height: 90.8px;
+  flex-grow: 1;
+  flex-basis: 104.9px;
+}
+.description .frame-36648 {
+  background: url('assets/images/Image10.png') 50% / cover no-repeat;
+  margin-right: 33px;
+  height: 90.8px;
+  flex-grow: 1;
+  flex-basis: 104.9px;
+}
+.description .frame-36649 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.description .frame-36645 {
+  margin: 0 18.4px 8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 18.4px);
+  box-sizing: border-box;
+}
+.description .oraimo-smart-watch {
+  margin: 13px 8.5px 13px 0;
+  display: inline-block;
+  width: 266.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 0.925;
+  text-transform: capitalize;
+  color: #000000;
+}
+.description .frame-36644 {
+  box-shadow: var(--itune, 3px 3px 4px 0px rgba(0, 0, 0, 0.15));
+  border-radius: 16px;
+  border: 1px solid #FFFFFF;
+  background: #EEEEEE;
+  display: flex;
+  flex-direction: row;
+  padding: 9.8px 9.1px 9.7px 15.4px;
+  box-sizing: border-box;
+}
+.description .rate {
+  margin-right: 16.4px;
+  display: flex;
+  width: 22.3px;
+  height: 21.5px;
+  box-sizing: border-box;
+}
+.description .container-1 {
+  margin: 2.2px 0 2.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.387;
+  text-transform: capitalize;
+  color: #000000;
+}
+.description .one-of-the-valueable-featueres-of-oraimo-smart-wacth-is-that-it-equipped-with-sensors-to-monitor-heart-rate-steps-sleep-patterns-and-even-oxygen-levels {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  text-transform: lowercase;
+  color: #000000;
+}
+.one-of-the-valueable-featueres-of-oraimo-smart-wacth-is-that-it-equipped-with-sensors-to-monitor-heart-rate-steps-sleep-patterns-and-even-oxygen-levels {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.333;
+  text-transform: lowercase;
+}
+.one-of-the-valueable-featueres-of-oraimo-smart-wacth-is-that-it-equipped-with-sensors-to-monitor-heart-rate-steps-sleep-patterns-and-even-oxygen-levels-sub7 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.description .frame-36650 {
+  margin: 0 4.2px 16px 0;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 4.2px);
+  box-sizing: border-box;
+}
+.description .frame-36651 {
+  margin: 0 2.4px 40px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 2.4px);
+  box-sizing: border-box;
+}
+.description .frame-36486 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.description .ngn-6000000 {
+  margin: 21.5px 8.5px 21.5px 0;
+  display: inline-block;
+  width: 266.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.04;
+  text-transform: capitalize;
+  color: #000000;
+}
+.description .frame-36479 {
+  box-shadow: 0px 1.2px 2.4px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 5.3px;
+  border: 1px solid var(--white, #F8F7F7);
+  background: var(--primary, #2E3192);
+  display: flex;
+  padding: 20.5px 15.3px;
+  box-sizing: border-box;
+}
+.description .buy-now {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.04;
+  color: var(--white, #F8F7F7);
+}
+.description .frame-36653 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  box-sizing: border-box;
+}
+.description .frame-36654 {
+  margin: 0 24px 11.2px 23px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 47px);
+  box-sizing: border-box;
+}
+.description .frame-36638 {
+  margin: 3.2px 56.5px 1.7px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 57.9px;
+  box-sizing: border-box;
+}
+.description .favorite {
+  margin: 0 12.9px 4.4px 12.9px;
+  display: flex;
+  width: 32.1px;
+  height: 29.2px;
+  box-sizing: border-box;
+}
+.description .favourite-1 {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 13.4px;
+  line-height: 1.75;
+  text-transform: capitalize;
+  color: var(--secondary-100, #FAF9FB);
+}
+.description .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.description .frame-366531 {
+  box-shadow: var(--itune, 3px 3px 4px 0px rgba(0, 0, 0, 0.15));
+  border-radius: 8px;
+  border: 1px solid #FFFFFF;
+  background: var(--primary, #2E3192);
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 14px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.description .vector-404 {
+  background: #F8F7F7;
+  margin: 10px 14px 8px 0;
+  width: 16px;
+  height: 2px;
+}
+.description .container-2 {
+  margin-right: 14.9px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.25;
+  text-transform: capitalize;
+  color: var(--white, #F8F7F7);
+}
+.description .group-87 {
+  margin: 2px 0;
+  width: 16px;
+  height: 16px;
+}
+.description .container-1 {
+  margin-bottom: 3.2px;
+  width: 20.7px;
+  height: 6.3px;
+}
+.description .vector-1 {
+  width: 18px;
+  height: 14px;
+}
+.description .vector-4 {
+  margin: 0 7px;
+  width: 6.8px;
+  height: 4.5px;
+}
+.description .vector-5 {
+  width: 25px;
+  height: 14px;
+}
+.description .vector-6 {
+  width: 32.5px;
+  height: 29.9px;
+}
+.description .icon {
+  width: 31.5px;
+  height: 31.5px;
+}
+.description .favorite-light {
+  border-radius: 42.8px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 2.1px 2.1px 6.4px 2.1px;
+  width: 51.4px;
+  height: 51.4px;
+  box-sizing: border-box;
+}
+.description .vector-15 {
+  width: 47.1px;
+  height: 42.8px;
+}
+.description .vector-9 {
+  width: 25px;
+  height: 20px;
+}
+.description .favorite-light-1 {
+  border-radius: 13px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 0.7px 0.7px 2px 0.7px;
+  width: 15.6px;
+  height: 15.6px;
+  box-sizing: border-box;
+}
+.description .vector-151 {
+  width: 14.3px;
+  height: 13px;
+}
+.description .star-1 {
+  width: 22.3px;
+  height: 21.5px;
+}
+.description .vector-152 {
+  width: 32.1px;
+  height: 29.2px;
+}
